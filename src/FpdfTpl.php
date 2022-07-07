@@ -10,7 +10,7 @@
 
 namespace setasign\Fpdi;
 
-use Codedge\Fpdf\Fpdf;
+use \Codedge\Fpdf\Fpdf\Fpdf;
 
 /**
  * Class FpdfTpl
